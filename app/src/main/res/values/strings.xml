@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FetchHomeAssignment</string>
+    <string name="try_again">Try Again?</string>
+    <string name="bio_stamp">By: Brandon Fadley - 2025</string>
+    <string name="welcome_to_fetch_takehome_app">Welcome to Fetch-TakeHome App!</string>
+    <string name="info_step_one">1. Click a list to expand it\'s items.</string>
+    <string name="info_step_2">2. Select an item to view it\'s details.</string>
+    <string name="need_help">Need Help?</string>
+    <string name="app_bar_title">Fetch-TakeHome</string>
+</resources>
