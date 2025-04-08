@@ -10,3 +10,9 @@ This app will...
  
 5. And allow you to view an item's details individually.
 <img width="310" alt="Screenshot 2025-04-08 at 2 47 19 PM" src="https://github.com/user-attachments/assets/f65a6bb2-668a-4432-bf7d-f11f14145183" />
+
+Package Structure :
+
+Data - Contains all classes related to retreiving and storing data from the service or database
+Di - Contains Modules for dependency injection
+Ui - Contains activities/composables and viewmodels that get & display the Ui to the user.
