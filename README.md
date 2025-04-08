@@ -9,4 +9,4 @@ This app will...
  <img width="310" alt="Screenshot 2025-04-08 at 2 47 19 PM" src="https://github.com/user-attachments/assets/f65a6bb2-668a-4432-bf7d-f11f14145183" />
  
 4. And allow you to view an item's details individually.
-   <img width="313" alt="Screenshot 2025-04-08 at 2 47 06 PM" src="https://github.com/user-attachments/assets/8799fcfe-5f43-44fa-87d7-619212b29f74" />
+<img width="313" alt="Screenshot 2025-04-08 at 2 47 06 PM" src="https://github.com/user-attachments/assets/8799fcfe-5f43-44fa-87d7-619212b29f74" />
